@@ -41,7 +41,7 @@ Grade Criteria
 
 
 ### Result Example
-![Result Example](Screenshot 2.png)
+![Result Example](Screenshot2.png)
 Learning Outcomes
 
 Through this project I learned:
